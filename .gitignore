@@ -10,6 +10,10 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+
+# target directories #
+target/
+
 # Package Files #
 *.jar
 *.war
@@ -22,3 +26,7 @@
 hs_err_pid*
 
 .DS_Store
+.settings
+.project
+.classpath
+*/bin
